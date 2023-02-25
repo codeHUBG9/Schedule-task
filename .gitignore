@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio Code.
+################################################################################
+
+/base/node_modules
+/base/package-lock.json
+/base/client/node_modules
+/base/client/package-lock.json
+
+/ScheduleTask/node_modules
+/ScheduleTask/package-lock.json
+
+
