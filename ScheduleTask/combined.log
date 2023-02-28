@@ -1,0 +1,4 @@
+{"level":"error","message":"Hello distributed log files!","service":"user-service"}
+{"level":"info","message":"Hello again distributed logs","service":"user-service"}
+{"level":"error","message":"Hello assdadistributed log files!"}
+{"level":"info","message":"Hello asdsagain distributed logs"}
